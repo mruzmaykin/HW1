@@ -2,6 +2,6 @@ class HelloWorld
 { 
     public static void main(String args[]) 
     { 
-        System.out.println("Hello, my name is Maxim Ruzmaykin!"); 
+        System.out.println("Goodbye, I finished my CS 3700 HW1"); 
     } 
 }
